@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Python, Javascript, CSS, and HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : don't
+- 📫 How to reach me :
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Blue is the best color!
 
