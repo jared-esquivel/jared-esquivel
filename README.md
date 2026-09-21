@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @jared-esquivel
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Python, Javascript, CSS, and HTML
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a Sr. Software Developer @Digital NEST
 - 📫 How to reach me: jaredesquivel24@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Blue is the best color!
+- ⚡ Fun fact: I am a coffee enthusiast ☕️
 
 <!---
 jared-esquivel/jared-esquivel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
