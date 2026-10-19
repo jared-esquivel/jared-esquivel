@@ -1,1 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-label="Jared Esquivel, software developer, turning ideas into action"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e21"/><stop offset="1" stop-color="#161038"/></linearGradient><linearGradient id="accent"><stop stop-color="#37e8ff"/><stop offset=".55" stop-color="#6589ff"/><stop offset="1" stop-color="#bb77ff"/></linearGradient><pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#4b6d9a" stroke-opacity=".15"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="5"/></filter></defs><rect width="1000" height="310" rx="20" fill="url(#bg)"/><rect width="1000" height="310" rx="20" fill="url(#grid)"/><path d="M0 255 Q250 170 500 245 T1000 210" fill="none" stroke="#38dfff" stroke-width="2" opacity=".22"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 255 Q250 170 500 245 T1000 210;M0 215 Q250 275 500 205 T1000 250;M0 255 Q250 170 500 245 T1000 210"/></path><circle cx="825" cy="145" r="98" fill="none" stroke="#6b74ff" stroke-width="1.5" stroke-dasharray="10 15" opacity=".65"><animateTransform attributeName="transform" type="rotate" from="0 825 145" to="360 825 145" dur="32s" repeatCount="indefinite"/></circle><circle cx="825" cy="145" r="65" fill="none" stroke="#37e8ff" stroke-width="2" stroke-dasharray="45 25" opacity=".8"><animateTransform attributeName="transform" type="rotate" from="360 825 145" to="0 825 145" dur="18s" repeatCount="indefinite"/></circle><path d="M790 145l22 22 48-50" fill="none" stroke="#37e8ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><rect x="42" y="35" width="182" height="27" rx="13" fill="#122c43" stroke="#2a7891"/><circle cx="58" cy="48" r="4" fill="#4fffc8"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle><text x="72" y="53" font-family="monospace" font-size="12" fill="#86f2ff">AVAILABLE TO BUILD</text><text x="42" y="129" font-family="Arial,sans-serif" font-size="61" font-weight="800" fill="#f3f7ff">JARED</text><text x="42" y="194" font-family="Arial,sans-serif" font-size="61" font-weight="800" fill="url(#accent)">ESQUIVEL</text><text x="44" y="232" font-family="monospace" font-size="17" fill="#c2d6f2">SOFTWARE DEVELOPER  /  BUILDER  /  FOUNDER</text><text x="44" y="269" font-family="monospace" font-size="15" fill="#52e3f7">// turning ideas into action</text><path d="M42 288H958" stroke="url(#accent)" stroke-width="2" stroke-dasharray="90 15"><animate attributeName="stroke-dashoffset" from="0" to="-105" dur="5s" repeatCount="indefinite"/></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-label="Hey there! I'm Jared Esquivel. Software Developer, Founder of HackWatsonville, Building What's Next.">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050b16"/><stop offset=".55" stop-color="#0B1120"/><stop offset="1" stop-color="#111C33"/></linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F8FAFC"/><stop offset=".37" stop-color="#38BDF8"/><stop offset=".74" stop-color="#2DD4BF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#38BDF8" stop-opacity=".34"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet"><stop stop-color="#A78BFA" stop-opacity=".26"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+  <radialGradient id="teal"><stop stop-color="#2DD4BF" stop-opacity=".22"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+  <clipPath id="clip"><rect width="1200" height="390" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="390" fill="url(#bg)"/>
+ <ellipse cx="1020" cy="150" rx="350" ry="260" fill="url(#glow)"><animate attributeName="cx" values="1020;960;1020" dur="12s" repeatCount="indefinite"/></ellipse>
+ <ellipse cx="840" cy="85" rx="260" ry="205" fill="url(#violet)"><animate attributeName="cy" values="85;145;85" dur="14s" repeatCount="indefinite"/></ellipse>
+ <ellipse cx="1070" cy="340" rx="310" ry="200" fill="url(#teal)"/>
+ <g fill="none" stroke-width="1">
+  <path d="M-90 65 Q270 10 610 70 T1320 46" stroke="#38BDF8" opacity=".13"><animateTransform attributeName="transform" type="translate" values="0 0;0 17;0 0" dur="13s" repeatCount="indefinite"/></path>
+  <path d="M-90 124 Q270 80 630 136 T1320 103" stroke="#A78BFA" opacity=".16"><animateTransform attributeName="transform" type="translate" values="0 0;0 -16;0 0" dur="16s" repeatCount="indefinite"/></path>
+  <path d="M-90 245 Q290 205 660 262 T1320 229" stroke="#2DD4BF" opacity=".11"><animateTransform attributeName="transform" type="translate" values="0 0;0 12;0 0" dur="11s" repeatCount="indefinite"/></path>
+  <path d="M-90 329 Q250 288 640 338 T1320 308" stroke="#38BDF8" opacity=".13"/>
+ </g>
+ <g fill="#38BDF8">
+  <circle cx="887" cy="103" r="2" opacity=".7"><animate attributeName="opacity" values=".1;.8;.1" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="1075" cy="220" r="2.4" opacity=".4"><animate attributeName="opacity" values=".1;.7;.1" dur="6.5s" repeatCount="indefinite"/></circle>
+  <circle cx="752" cy="289" r="1.5" opacity=".4"><animate attributeName="opacity" values=".1;.65;.1" dur="4s" repeatCount="indefinite"/></circle>
+ </g>
+ <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+  <text x="83" y="112" fill="#B8C8DC" font-size="23" font-weight="500" letter-spacing=".3">Hey there!</text>
+  <text x="80" y="208" fill="url(#name)" font-size="76" font-weight="800" letter-spacing="-2.5">I'm Jared Esquivel</text>
+  <rect x="84" y="236" width="42" height="3" rx="1.5" fill="#2DD4BF"/>
+  <g font-size="26" font-weight="500" fill="#CBD5E1">
+   <text x="83" y="291" opacity="1">Software Developer<animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;.27;.32;.33;.96;.99;1" dur="12s" repeatCount="indefinite"/></text>
+   <text x="83" y="291" opacity="0">Founder of HackWatsonville<animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;.30;.35;.60;.65;.99;1" dur="12s" repeatCount="indefinite"/></text>
+   <text x="83" y="291" opacity="0">Building What's Next.<animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;.31;.34;.63;.68;.94;1" dur="12s" repeatCount="indefinite"/></text>
+  </g>
+  <text x="84" y="352" fill="#7C91AE" font-size="15" letter-spacing="2.6">SOFTWARE  /  COMMUNITY  /  WHAT'S NEXT</text>
+ </g>
+ <path d="M1050 0V390" stroke="#38BDF8" opacity=".06"/><path d="M1100 0V390" stroke="#38BDF8" opacity=".04"/>
+ <rect x=".5" y=".5" width="1199" height="389" rx="15.5" stroke="#294260" opacity=".6" fill="none"/>
+</g>
+</svg>
