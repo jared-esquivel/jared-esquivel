@@ -1,110 +1,115 @@
 <div align="center">
-  <img src="assets/sunset.gif" alt="Animated pixel-art coastal sunset with shimmering water" width="100%" />
 
-  # Jared Esquivel
+<img src="assets/sunset-hero.png" width="100%" alt="Detailed pixel-art coastal sunset with pink clouds, golden sun, waves and a programmer's desk overlooking the ocean" />
 
-  Software Developer at Digital NEST · Founder of HackWatsonville · HITEC Foundation Scholar
+# Jared Esquivel
 
-  *Turning ideas into action.*
+Senior Software Developer @ Digital NEST · Founder, HackWatsonville · HITEC Scholar
 
-  [Portfolio](https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-) · [LinkedIn](https://www.linkedin.com/in/jared-esquivel-0a699632a) · [Explore repositories](https://github.com/jared-esquivel?tab=repositories)
+*Turning ideas into action.*
+
+[Portfolio](https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jared-esquivel-0a699632a) &nbsp;·&nbsp; [Repositories](https://github.com/jared-esquivel?tab=repositories)
+
 </div>
 
-<img src="assets/horizon.png" alt="" width="100%" />
+<img src="assets/01-about.png" width="100%" alt="01 — The developer" />
 
-### 01 / What I build
+I build web experiences with **React, TypeScript, and JavaScript**, with a focus on accessibility, performance, and making interfaces easier to use. At Digital NEST, I work on real client-facing software. Outside of work, I founded **HackWatsonville** to bring builders together in my community.
 
-I develop web experiences with React, TypeScript, and JavaScript, focusing on accessibility, performance, and clear interfaces. At Digital NEST, my work includes improving real-world websites and exploring AI-assisted development. I also founded HackWatsonville to bring people together around building technology.
+| Frontend engineering | Programming & exploration |
+|:--|:--|
+| React · TypeScript · JavaScript · HTML · CSS | C++ · Python · Git · GitHub |
+| Accessibility · responsive UI · SEO · performance | Data structures · AI/ML · cybersecurity |
 
-<table><tr><td width="50%" valign="top">
+<img src="assets/02-work.png" width="100%" alt="02 — Selected work" />
 
-#### Interfaces
-React · TypeScript · JavaScript · HTML · CSS
+<table>
+<tr><td width="50%" valign="top">
 
-Accessible experiences, frontend architecture, performance and SEO.
+### [Honors Transfer Club](https://github.com/jared-esquivel/Honors_Club_Webpage)
+
+A website supporting the Cabrillo Honors Transfer Club and its student community.
+
+[View source →](https://github.com/jared-esquivel/Honors_Club_Webpage)
 
 </td><td width="50%" valign="top">
 
-#### Systems & exploration
-C++ · Python · Git · GitHub
+### [Clearpoint](https://github.com/jared-esquivel/clearpoint-site)
 
-Data structures, practical tooling, AI/ML and cybersecurity exploration.
+A web-development service site, part of my frontend design and implementation work.
 
-</td></tr></table>
+[View source →](https://github.com/jared-esquivel/clearpoint-site)
 
-<img src="assets/current.png" alt="" width="100%" />
+</td></tr>
+<tr><td width="50%" valign="top">
 
-### 02 / Selected work
+### [Personal portfolio](https://github.com/jared-esquivel/Jared-Esquivel-s-Portfolio-)
 
-> The public repository links below are provided as a starting point. Add a project only after checking its source and documenting the actual engineering decisions.
+My personal website and a home for selected work.
 
-| Work | Why it matters |
-|:--|:--|
-| [Honors Transfer Club website](https://github.com/jared-esquivel/Honors_Club_Webpage) | A public-facing student community website. Review the repository for implementation specifics. |
-| [My portfolio](https://github.com/jared-esquivel/Jared-Esquivel-s-Portfolio-) | A place to explore my frontend work and presentation. |
-| [All public repositories](https://github.com/jared-esquivel?tab=repositories) | Browse current experiments, coursework, and development projects. |
+[View site →](https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-)
+
+</td><td width="50%" valign="top">
+
+### [Explore more](https://github.com/jared-esquivel?tab=repositories)
+
+Additional public repositories, experiments, and coursework.
+
+[Browse repositories →](https://github.com/jared-esquivel?tab=repositories)
+
+</td></tr>
+</table>
 
 <details>
-<summary>Engineering approach</summary>
+<summary>How I approach engineering</summary>
 
-- Start with the user problem and the constraints.
-- Build clear, maintainable components rather than unnecessary abstractions.
-- Check accessibility, responsive behavior, and page performance.
-- Iterate from feedback and measured outcomes.
+I prioritize clear user flows, maintainable implementation, accessibility checks, and measurable improvements to performance and usability.
 
 </details>
 
-<img src="assets/horizon.png" alt="" width="100%" />
-
-### 03 / GitHub activity
+<img src="assets/03-data.png" width="100%" alt="03 — GitHub signal" />
 
 <div align="center">
-  <img src="assets/section.png" alt="The engineering log, build ship improve" width="100%" />
-</div>
 
-<!-- These images use third-party live endpoints. If a service is unavailable, GitHub may show a broken image. -->
-<table><tr><td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jared-esquivel&show_icons=true&hide_border=true&bg_color=102A56&title_color=FFC978&text_color=FFF0CE&icon_color=F47C78&ring_color=35B9DB" alt="GitHub public activity statistics" width="100%" />
-</td><td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jared-esquivel&layout=compact&hide_border=true&bg_color=102A56&title_color=FFC978&text_color=FFF0CE" alt="Languages represented in public repositories" width="100%" />
-</td></tr></table>
+<a href="https://github.com/jared-esquivel"><img width="49%" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=jared-esquivel&amp;show_icons=true&amp;hide_border=true&amp;bg_color=111e3d&amp;title_color=ffc978&amp;text_color=fff0ce&amp;icon_color=f47f87&amp;ring_color=35b9db" /></a>
+<a href="https://github.com/jared-esquivel?tab=repositories"><img width="49%" alt="Top languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jared-esquivel&amp;layout=compact&amp;hide_border=true&amp;bg_color=111e3d&amp;title_color=ffc978&amp;text_color=fff0ce" /></a>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jared-esquivel&hide_border=true&background=102A56&ring=FFC978&fire=F47C78&currStreakLabel=F2A0C0&sideLabels=FFF0CE&dates=FFF0CE&currStreakNum=FFF0CE&sideNums=FFF0CE" alt="Contribution streak" width="80%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jared-esquivel&bg_color=102A56&color=FFF0CE&line=F47C78&point=FFC978&area=true&area_color=35B9DB&hide_border=true" alt="GitHub activity graph" width="100%" />
+<img width="80%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=jared-esquivel&amp;hide_border=true&amp;background=111e3d&amp;ring=ffc978&amp;fire=f47f87&amp;currStreakLabel=f2a0c0&amp;sideLabels=fff0ce&amp;dates=fff0ce&amp;currStreakNum=fff0ce&amp;sideNums=fff0ce" />
+
+<img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jared-esquivel&amp;bg_color=111e3d&amp;color=fff0ce&amp;line=f47f87&amp;point=ffc978&amp;area=true&amp;area_color=35b9db&amp;hide_border=true" />
+
 </div>
 
 <details>
-<summary>3D contribution skyline (generated after the workflow runs)</summary>
+<summary>3D contributions (available after running the included workflow)</summary>
 
-<div align="center"><img src="https://raw.githubusercontent.com/jared-esquivel/jared-esquivel/output/profile-3d-contrib/profile-night-rainbow.svg" alt="Generated 3D contribution skyline" width="100%" /></div>
+<div align="center"><img width="100%" alt="Generated 3D contribution chart" src="https://raw.githubusercontent.com/jared-esquivel/jared-esquivel/output/profile-3d-contrib/profile-night-rainbow.svg" /></div>
 
 </details>
 
 <details>
-<summary>Contribution snake (generated by the existing snake workflow)</summary>
+<summary>Contribution snake (from your existing workflow)</summary>
 
-<div align="center"><img src="https://raw.githubusercontent.com/jared-esquivel/jared-esquivel/output/github-snake.svg" alt="Contribution snake animation" width="100%" /></div>
+<div align="center"><img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/jared-esquivel/jared-esquivel/output/github-snake.svg" /></div>
 
 </details>
 
-<img src="assets/stars.png" alt="" width="100%" />
+<img src="assets/04-impact.png" width="100%" alt="04 — Beyond the code" />
 
-### 04 / Work beyond the repository
-
-| Focus | Impact |
+| Engineering | Community |
 |:--|:--|
-| Frontend quality | Achieved Lighthouse scores of 95+ on website optimization work at Digital NEST. |
-| AI-assisted prototyping | Reported 35–45% faster prototyping in relevant workflows. |
-| Digital literacy | Contributed to a PII training tool associated with an 80% improvement in understanding. |
-| Community | Founded HackWatsonville and participate in the HITEC scholar community. |
+| **95+ Lighthouse scores** on website optimization work at Digital NEST | **Founder of HackWatsonville**, bringing people together to build |
+| **PII learning tool** associated with an 80% improvement in understanding | **HITEC Foundation Scholar**, growing through mentorship and community |
+| **AI-assisted prototyping**, with reported 35–45% faster workflows | Computer Science student at Cabrillo College |
 
-<sub>Professional impact figures are self-reported and are not GitHub-generated metrics.</sub>
+<sub>Professional outcome figures are self-reported, not derived from GitHub activity.</sub>
 
 <div align="center">
-  <img src="assets/twilight.png" alt="Pixel-art ocean after sunset, with stars emerging" width="100%" />
 
-  *The next idea is already taking shape.*
+<img src="assets/twilight-footer.png" width="100%" alt="Pixel-art coastal ocean transitioning into twilight" />
 
-  [See what I'm building](https://github.com/jared-esquivel?tab=repositories) · [Let's connect](https://www.linkedin.com/in/jared-esquivel-0a699632a)
+*See you at the next build.*
+
+[Explore my work](https://github.com/jared-esquivel?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/jared-esquivel-0a699632a)
+
 </div>
