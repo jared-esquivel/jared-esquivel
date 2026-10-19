@@ -1,19 +1,33 @@
-# Installation
+# Pixel Coast — setup and verification
 
-1. Download and extract this package.
-2. Open `https://github.com/jared-esquivel/jared-esquivel`.
-3. Upload `README.md`, the `assets/` directory, and `.github/workflows/skyline.yml` preserving paths. Do not delete the existing `.github/workflows/snake.yml`.
-4. Commit changes to `main`.
-5. Go to Actions > 3D Contribution Skyline > Run workflow. The skyline will be missing until the first successful run. If the action version is unavailable, check the upstream repository for a current supported release.
-6. Confirm the generated `profile-3d-contrib/profile-night-rainbow.svg` exists on the default branch. If the action produces a different filename, update the README accordingly.
-7. Verify the existing snake Action is successful and the `output` branch contains the SVG files.
-8. Check all external statistics services. They are optional third-party services and may occasionally rate-limit or fail.
-9. Preview on GitHub in both light and dark themes and on mobile.
+## Design system
+Midnight navy #102A56, coastal blue #164B78, ocean cyan #35B9DB, coral #F47C78, cloud pink #F2A0C0, gold #FFC978, cream #FFF0CE, twilight lavender #9D80C6.
 
-## Notes
-- `assets/` uses locally hosted, self-contained animated SVG files with no JavaScript.
-- GitHub renders SVG animation differently across clients; users with reduced-motion settings may see less motion.
-- 3D skyline is a generated static graphic, not a continuously animated chart.
-- Public GitHub languages represent repository contents, not necessarily proficiency.
-- Some professional outcomes are self-reported, not independently verified by public code.
-- No live changes were made to your GitHub repository.
+Visual rule: crisp nearest-neighbor pixels, calm coastal scenes, restrained typography and two-column statistics. The artwork is intentionally rendered as a pixel-art GIF rather than smooth SVG gradients.
+
+## Install
+1. Back up your current `README.md` and `.github/workflows/` folder.
+2. Upload the package's `README.md` and `assets/` folder into `jared-esquivel/jared-esquivel` on the `main` branch.
+3. Add `.github/workflows/skyline.yml` without deleting your existing snake workflow.
+4. Go to GitHub Actions and manually run `Generate 3D Contributions`.
+5. Confirm the `output` branch contains `profile-3d-contrib/profile-night-rainbow.svg`. If the upstream generator produces a different filename, change the README path accordingly.
+6. Confirm your existing snake workflow generates `github-snake.svg` on `output`. If it generates a different filename or branch, update the README image URL.
+7. Refresh your GitHub profile and inspect on desktop, mobile, and both themes.
+
+## Important limitations
+- The pixel ocean hero GIF animates; the twilight footer and decorative dividers are static to avoid visual overload.
+- Third-party statistics and activity endpoints have not been live-tested in GitHub and may be unavailable or rate-limited. They are themed to match, but may not be perfectly identical.
+- GitHub's README renderer cannot run custom JavaScript, CSS, or interactive animations.
+- The 3D workflow is supplied but has not been executed. Its external action version and output filename must be checked after first run.
+- The public repositories could not be exhaustively audited. Project details are intentionally conservative. Verify repository paths before publishing.
+- For best reliability, replace third-party stat images with scheduled locally generated assets once working endpoints are confirmed.
+
+## Verification checklist
+- [ ] All local PNG/GIF paths load
+- [ ] Ocean hero animates on GitHub
+- [ ] No broken external statistics images
+- [ ] 3D workflow passes and generates expected file
+- [ ] Snake image points to actual output filename
+- [ ] Project links and descriptions are accurate
+- [ ] Layout works on mobile
+- [ ] Readable on light and dark GitHub themes

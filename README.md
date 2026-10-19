@@ -1,99 +1,110 @@
 <div align="center">
+  <img src="assets/sunset.gif" alt="Animated pixel-art coastal sunset with shimmering water" width="100%" />
 
-<img src="./assets/hero.svg" width="100%" alt="Jared Esquivel animated developer banner" />
+  # Jared Esquivel
 
-[Portfolio](https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-) · [LinkedIn](https://www.linkedin.com/in/jared-esquivel-0a699632a) · [Projects](https://github.com/jared-esquivel?tab=repositories)
+  Software Developer at Digital NEST · Founder of HackWatsonville · HITEC Foundation Scholar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=54E7F9&center=true&vCenter=true&width=760&lines=Senior+Software+Developer+%40+Digital+NEST;Founder+of+HackWatsonville;React+%7C+TypeScript+%7C+Accessibility;Engineering+for+real-world+impact" alt="Animated developer titles" />
+  *Turning ideas into action.*
 
-<img src="./assets/terminal.svg" width="100%" alt="Animated terminal with developer introduction" />
-
+  [Portfolio](https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-) · [LinkedIn](https://www.linkedin.com/in/jared-esquivel-0a699632a) · [Explore repositories](https://github.com/jared-esquivel?tab=repositories)
 </div>
 
-### `01 // engineering.snapshot`
+<img src="assets/horizon.png" alt="" width="100%" />
 
-I build thoughtful digital experiences with a focus on **frontend engineering, accessibility, performance, and real-world impact**. At Digital NEST, I work on software development initiatives; beyond work, I founded HackWatsonville to help bring people together around technology.
+### 01 / What I build
 
-<table><tr><td align="center"><strong>95+</strong><br/>Lighthouse scores<br/><sub>Accessibility / SEO work</sub></td><td align="center"><strong>80%</strong><br/>Learning improvement<br/><sub>PII training initiative</sub></td><td align="center"><strong>35–45%</strong><br/>Faster prototyping<br/><sub>AI-assisted workflows</sub></td></tr></table>
+I develop web experiences with React, TypeScript, and JavaScript, focusing on accessibility, performance, and clear interfaces. At Digital NEST, my work includes improving real-world websites and exploring AI-assisted development. I also founded HackWatsonville to bring people together around building technology.
 
-<sub>Selected project outcomes; not GitHub contribution statistics. Results reflect professional work and may not have public source code.</sub>
+<table><tr><td width="50%" valign="top">
 
-### `02 // selected.builds`
+#### Interfaces
+React · TypeScript · JavaScript · HTML · CSS
 
-<a href="https://github.com/jared-esquivel/clearpoint-site"><img src="./assets/clearpoint.svg" width="100%" alt="Clearpoint project card" /></a>
+Accessible experiences, frontend architecture, performance and SEO.
 
-A design-first marketing site for a web development service. The public repository includes HTML, CSS, JavaScript, and assets. [Explore source →](https://github.com/jared-esquivel/clearpoint-site)
+</td><td width="50%" valign="top">
 
-<a href="https://github.com/jared-esquivel/Honors_Club_Webpage"><img src="./assets/honors.svg" width="100%" alt="Cabrillo Honors Club project card" /></a>
+#### Systems & exploration
+C++ · Python · Git · GitHub
 
-A responsive, multi-page website connecting students with resources, events, and involvement opportunities. [Explore source →](https://github.com/jared-esquivel/Honors_Club_Webpage)
+Data structures, practical tooling, AI/ML and cybersecurity exploration.
 
-<img src="./assets/impact.svg" width="100%" alt="Digital NEST engineering impact card" />
+</td></tr></table>
 
-Professional engineering highlights include web accessibility and SEO improvements, a PII learning tool, and AI-assisted prototyping. These are **experience highlights**, not claims that the underlying work is publicly available in this account.
+<img src="assets/current.png" alt="" width="100%" />
 
-### `03 // stack.matrix`
+### 02 / Selected work
 
-<div align="center">
+> The public repository links below are provided as a starting point. Add a project only after checking its source and documenting the actual engineering decisions.
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,cpp,py,git,github,vscode&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, C++, Python, Git, GitHub, VS Code" />
+| Work | Why it matters |
+|:--|:--|
+| [Honors Transfer Club website](https://github.com/jared-esquivel/Honors_Club_Webpage) | A public-facing student community website. Review the repository for implementation specifics. |
+| [My portfolio](https://github.com/jared-esquivel/Jared-Esquivel-s-Portfolio-) | A place to explore my frontend work and presentation. |
+| [All public repositories](https://github.com/jared-esquivel?tab=repositories) | Browse current experiments, coursework, and development projects. |
 
-</div>
+<details>
+<summary>Engineering approach</summary>
 
-<details><summary>Explore how I approach engineering</summary>
-
-- **Interface engineering:** responsive UI, clarity, accessible interactions.
-- **Performance and quality:** Lighthouse audits, practical SEO, iterative improvements.
-- **Software fundamentals:** C++ data structures and problem solving.
-- **AI-assisted development:** prototyping, evaluation, and keeping human review in the loop.
+- Start with the user problem and the constraints.
+- Build clear, maintainable components rather than unnecessary abstractions.
+- Check accessibility, responsive behavior, and page performance.
+- Iterate from feedback and measured outcomes.
 
 </details>
 
-### `04 // developer.telemetry`
+<img src="assets/horizon.png" alt="" width="100%" />
+
+### 03 / GitHub activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jared-esquivel&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jared-esquivel&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Public repository languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jared-esquivel&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
-
-<img src="https://streak-stats.demolab.com?user=jared-esquivel&theme=tokyonight&hide_border=true" width="65%" alt="Contribution streak" />
-
+  <img src="assets/section.png" alt="The engineering log, build ship improve" width="100%" />
 </div>
 
-<details><summary>3D contribution skyline (generated daily)</summary>
+<!-- These images use third-party live endpoints. If a service is unavailable, GitHub may show a broken image. -->
+<table><tr><td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jared-esquivel&show_icons=true&hide_border=true&bg_color=102A56&title_color=FFC978&text_color=FFF0CE&icon_color=F47C78&ring_color=35B9DB" alt="GitHub public activity statistics" width="100%" />
+</td><td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jared-esquivel&layout=compact&hide_border=true&bg_color=102A56&title_color=FFC978&text_color=FFF0CE" alt="Languages represented in public repositories" width="100%" />
+</td></tr></table>
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline; available after the workflow runs" />
+  <img src="https://streak-stats.demolab.com?user=jared-esquivel&hide_border=true&background=102A56&ring=FFC978&fire=F47C78&currStreakLabel=F2A0C0&sideLabels=FFF0CE&dates=FFF0CE&currStreakNum=FFF0CE&sideNums=FFF0CE" alt="Contribution streak" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jared-esquivel&bg_color=102A56&color=FFF0CE&line=F47C78&point=FFC978&area=true&area_color=35B9DB&hide_border=true" alt="GitHub activity graph" width="100%" />
 </div>
+
+<details>
+<summary>3D contribution skyline (generated after the workflow runs)</summary>
+
+<div align="center"><img src="https://raw.githubusercontent.com/jared-esquivel/jared-esquivel/output/profile-3d-contrib/profile-night-rainbow.svg" alt="Generated 3D contribution skyline" width="100%" /></div>
 
 </details>
 
-### `05 // contribution.arcade`
+<details>
+<summary>Contribution snake (generated by the existing snake workflow)</summary>
 
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jared-esquivel/jared-esquivel/output/github-snake-dark.svg" /><img src="https://raw.githubusercontent.com/jared-esquivel/jared-esquivel/output/github-snake.svg" width="100%" alt="Animated contribution snake" /></picture>
-
-</div>
-
-### `06 // beyond.the.code`
-
-- **Digital NEST:** Senior Software Developer, building digital tools and improving user experiences.
-- **HackWatsonville:** Founder, bringing a community hackathon from idea to launch.
-- **HITEC Foundation:** Scholar focused on growing as a technology leader.
-
-<details><summary>Currently exploring</summary>
-
-AI and machine learning, cybersecurity, frontend architecture, and the intersection of technology and community impact.
+<div align="center"><img src="https://raw.githubusercontent.com/jared-esquivel/jared-esquivel/output/github-snake.svg" alt="Contribution snake animation" width="100%" /></div>
 
 </details>
 
+<img src="assets/stars.png" alt="" width="100%" />
+
+### 04 / Work beyond the repository
+
+| Focus | Impact |
+|:--|:--|
+| Frontend quality | Achieved Lighthouse scores of 95+ on website optimization work at Digital NEST. |
+| AI-assisted prototyping | Reported 35–45% faster prototyping in relevant workflows. |
+| Digital literacy | Contributed to a PII training tool associated with an 80% improvement in understanding. |
+| Community | Founded HackWatsonville and participate in the HITEC scholar community. |
+
+<sub>Professional impact figures are self-reported and are not GitHub-generated metrics.</sub>
+
 <div align="center">
+  <img src="assets/twilight.png" alt="Pixel-art ocean after sunset, with stars emerging" width="100%" />
 
-<img src="./assets/footer.svg" width="100%" alt="Build with purpose, ship with intention" />
+  *The next idea is already taking shape.*
 
-[Let's connect on LinkedIn](https://www.linkedin.com/in/jared-esquivel-0a699632a)
-
+  [See what I'm building](https://github.com/jared-esquivel?tab=repositories) · [Let's connect](https://www.linkedin.com/in/jared-esquivel-0a699632a)
 </div>
