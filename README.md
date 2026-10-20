@@ -1,40 +1,69 @@
-<div align="center">
+<!-- Jared Esquivel / profile -->
+<p align="center">
+  <a href="https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-">
+    <img src="assets/hero/hero.gif" alt="Animated introduction: Hey there! I'm Jared. Senior Software Developer. Blue and emerald light travels through a dark wavelength field." width="100%" />
+  </a>
+</p>
 
-<img src="./assets/hero.svg" width="100%" alt="Animated introduction: Hey there! I'm Jared Esquivel. Software Developer, Founder of HackWatsonville, Building What's Next." />
+<p align="center">
+  <a href="https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jared-esquivel-0a699632a">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/jared-esquivel">GitHub</a>
+</p>
 
-</div>
+I build accessible, thoughtful web experiences at **Digital NEST**, where I work as a Senior Software Developer. I care about how software feels to use, how well it performs, and whether it solves a real problem.
 
-### Hey, I'm Jared.
+Outside of work, I founded **HackWatsonville** to bring more people into building with technology. I'm also a **HITEC Foundation Scholar** studying Computer Science at Cabrillo College.
 
-I build software at Digital NEST and founded HackWatsonville. I'm studying Computer Science at Cabrillo College, exploring AI, and getting better at my craft every day.
+<img src="assets/hero/wavelength.svg" alt="" width="100%" />
 
-Senior Software Developer at Digital NEST · Founder of HackWatsonville · HITEC Foundation Scholar
+### Work that matters
 
-### Tools I work with
+**95+ Lighthouse scores**  
+Improved accessibility and SEO across web experiences at Digital NEST. *(Professional work; project source may be private.)*
 
-<div align="center">
-<img src="./assets/stack.svg" width="100%" alt="Tech stack: JavaScript, TypeScript, React, HTML, CSS, Python, C++, Git, GitHub" />
-</div>
+**HackWatsonville · 30+ participants**  
+Founded and helped organize a community hackathon connecting emerging builders with hands-on technology experiences.
+
+> I value software that works well for the people using it, not just the people building it.
+
+### Technologies
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="42" height="42" />
+</p>
+
+JavaScript · TypeScript · React · C++ · HTML · CSS · Git  
+Accessibility · Responsive interfaces · SEO · AI-assisted development
 
 ### Selected work
 
-- [HackWatsonville](https://github.com/jared-esquivel?tab=repositories) · Founded and organized a community hackathon in Watsonville. [See my portfolio](https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-/) for more about my work.
-- [Visit Kauai Now](https://github.com/jared-esquivel/Visit-Kauai-now) · A travel website project built with HTML, CSS, and JavaScript.
-- [More on my portfolio](https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-/) · Software development, frontend work, and community projects.
+My strongest professional projects include client and team work that isn't necessarily public on GitHub. Rather than present coursework or unfinished repositories as flagship engineering projects, I'm keeping this section intentionally selective.
 
-### GitHub activity
+**[Personal portfolio](https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-)**  
+An interactive introduction to my work, with a motion-led interface and a visual language built around light and wavelengths. [Explore the site ↗](https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-)
 
-<div align="center">
+<details>
+<summary>What I'm exploring next</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jared-esquivel&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;icon_color=2DD4BF&amp;include_all_commits=true" height="165" alt="GitHub activity statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jared-esquivel&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B1120&amp;title_color=38BDF8&amp;text_color=CBD5E1" height="165" alt="Languages detected across public GitHub repositories, not a measure of skill" />
+- Better accessibility and performance in modern web interfaces
+- Thoughtful uses of AI in the development workflow
+- Data structures, algorithms, and software engineering fundamentals
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jared-esquivel&amp;bg_color=0B1120&amp;color=CBD5E1&amp;line=38BDF8&amp;point=2DD4BF&amp;area=true&amp;area_color=111C33&amp;hide_border=true" width="100%" alt="Contribution activity over time" />
+</details>
 
-</div>
+<img src="assets/hero/wavelength.svg" alt="" width="100%" />
 
-<sub>Language stats reflect public repository code, not proficiency. Live graphs are hosted by third-party services and may occasionally be unavailable.</sub>
-
-### Find me online
-
-[Portfolio](https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-/) · [LinkedIn](https://www.linkedin.com/in/jared-esquivel-0a699632a) · [GitHub](https://github.com/jared-esquivel)
+<p align="center">
+  <a href="https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-">Explore my portfolio ↗</a>
+</p>
