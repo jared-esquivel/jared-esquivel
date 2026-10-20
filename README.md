@@ -1,18 +1,16 @@
 <!-- Jared Esquivel / profile -->
 <p align="center">
   <a href="https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-">
-    <img src="assets/hero/hero.gif" alt="Animated introduction: Hey there! I'm Jared. Senior Software Developer. Blue and emerald light travels through a dark wavelength field." width="100%" />
+    <img src="assets/hero/portfolio-opening.gif" alt="Portfolio opening animation: atom and lightbulb, then Hey there! I'm Jared, followed by the rotating title on an aurora background." width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-">
-    <img
-      src="./assets/hero/portfolio-opening.gif"
-      alt="Jared Esquivel's animated portfolio introduction"
-      width="100%"
-    />
-  </a>
+  <a href="https://jared-esquivel.github.io/Jared-Esquivel-s-Portfolio-">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jared-esquivel-0a699632a">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/jared-esquivel">GitHub</a>
 </p>
 
 I build accessible, thoughtful web experiences at **Digital NEST**, where I work as a Senior Software Developer. I care about how software feels to use, how well it performs, and whether it solves a real problem.
